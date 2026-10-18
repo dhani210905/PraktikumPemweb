@@ -230,4 +230,4 @@ if (inputSearch) {
 // Inisialisasi saat DOM selesai dimuat
 document.addEventListener("DOMContentLoaded", function () {
     renderTable(dataMahasiswa);
-});
+});//uji coba fitur eksperimental
